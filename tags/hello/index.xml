@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello on hashmap.org</title>
-    <link>http://www.hashmap.org/tags/hello/</link>
+    <link>https://www.hashmap.org/tags/hello/</link>
     <description>Recent content in hello on hashmap.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 hashmap.org</copyright>
     <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.hashmap.org/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hashmap.org/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://www.hashmap.org/posts/hello-world/</link>
+      <link>https://www.hashmap.org/posts/hello-world/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hashmap.org/posts/hello-world/</guid>
+      <guid>https://www.hashmap.org/posts/hello-world/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero et recusandae dolorum molestiae! Illum nihil, aperiam beatae architecto fugiat natus! Minus, corrupti. Culpa atque, numquam architecto illo quos, fugit nam.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, reprehenderit, fugiat. Quae unde facere nam! Repellendus magnam fuga consectetur quo voluptate aperiam deleniti ipsam soluta harum earum, eius, aut, vel? Lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Seq</description>
     </item>

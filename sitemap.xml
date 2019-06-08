@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.hashmap.org/about/</loc>
+    <loc>https://www.hashmap.org/about/</loc>
     <lastmod>2019-06-08T17:46:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hashmap.org/</loc>
+    <loc>https://www.hashmap.org/</loc>
     <lastmod>2019-06-08T17:46:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hashmap.org/posts/hello-world/</loc>
+    <loc>https://www.hashmap.org/posts/hello-world/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hashmap.org/posts/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hashmap.org/tags/</loc>
+    <loc>https://www.hashmap.org/posts/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hashmap.org/tags/hello/</loc>
+    <loc>https://www.hashmap.org/tags/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hashmap.org/categories/</loc>
+    <loc>https://www.hashmap.org/tags/hello/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hashmap.org/categories/</loc>
     <priority>0</priority>
   </url>
   

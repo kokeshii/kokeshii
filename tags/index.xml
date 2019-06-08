@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on hashmap.org</title>
-    <link>http://www.hashmap.org/tags/</link>
+    <link>https://www.hashmap.org/tags/</link>
     <description>Recent content in Tags on hashmap.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 hashmap.org</copyright>
     <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.hashmap.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hashmap.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello</title>
-      <link>http://www.hashmap.org/tags/hello/</link>
+      <link>https://www.hashmap.org/tags/hello/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hashmap.org/tags/hello/</guid>
+      <guid>https://www.hashmap.org/tags/hello/</guid>
       <description></description>
     </item>
     
