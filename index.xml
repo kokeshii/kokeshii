@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hashmap.org</title>
+    <title>hashmap</title>
     <link>https://www.hashmap.org/</link>
-    <description>Recent content on hashmap.org</description>
+    <description>Recent content on hashmap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 hashmap.org</copyright>
-    <lastBuildDate>Sat, 08 Jun 2019 18:47:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 17:46:11 -0400</lastBuildDate>
     
 	<atom:link href="https://www.hashmap.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://www.hashmap.org/test/</link>
-      <pubDate>Sat, 08 Jun 2019 18:47:46 -0400</pubDate>
-      
-      <guid>https://www.hashmap.org/test/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>About</title>
@@ -27,7 +18,9 @@
       <pubDate>Sat, 08 Jun 2019 17:46:11 -0400</pubDate>
       
       <guid>https://www.hashmap.org/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil pariatur ipsam, laudantium quod eligendi, nostrum debitis sapiente, dignissimos dicta iusto maxime. Quis doloribus aperiam quasi eius, dignissimos earum veritatis nobis ex adipisci alias quas, vel sint ducimus iusto reiciendis non nihil! Non culpa impedit optio blanditiis laboriosam ipsa temporibus ipsum recusandae molestiae hic amet veniam tenetur nihil quibusdam aspernatur accusantium nesciunt voluptate quia reiciendis, possimus odit, dolore aperiam? Voluptas totam, nam, repellat officiis perferendis nostrum nisi, nemo deserunt sapiente quaerat ab, veniam!</description>
+      <description>This is the personal website and blog of Carlos Rey, a software engineer in Brooklyn, NY.
+I figured I needed a place to put everything that&amp;rsquo;s going through my head. Don&amp;rsquo;t expect regular updates, or interesting content.
+In fact, this site is not written for you, so please don&amp;rsquo;t read it.</description>
     </item>
     
     <item>

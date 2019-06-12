@@ -3,19 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hashmap.org/test/</loc>
-    <lastmod>2019-06-08T18:47:46-04:00</lastmod>
+    <loc>https://www.hashmap.org/about/</loc>
+    <lastmod>2019-06-08T17:46:11-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hashmap.org/</loc>
-    <lastmod>2019-06-08T18:47:46-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hashmap.org/about/</loc>
     <lastmod>2019-06-08T17:46:11-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
